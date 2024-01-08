@@ -29,15 +29,15 @@
         <form action="/signup" method="post">
         {% csrf_token %}
             <label for="">Username</label>
-            <input type="text" id="username" name="username" placeholder="Create a username (only letters and numbers)" Required>
+            <input type="str" id="username" name="username" placeholder="Create a username (only letters and numbers)" Required>
             <br>
 
             <label for="">First name</label>
-            <input type="text" id="fname" name="fname" placeholder="Enter your First name" Required>
+            <input type="str" id="fname" name="fname" placeholder="Enter your First name" Required>
             <br>
 
             <label for="">Last name</label>
-            <input type="text" id="lname" name="lname" placeholder="Enter your Last name" Required>
+            <input type="str" id="lname" name="lname" placeholder="Enter your Last name" Required>
             <br>
 
             <label for="">Email address</label>
