@@ -1,7 +1,9 @@
 
 
 
-
+## PREREQUSITES
+Basic knowledge in python is helpful but not necessary
+No experience in building python based app
 
 ## Commands
 • Install virtual environment pip install virtualenv
