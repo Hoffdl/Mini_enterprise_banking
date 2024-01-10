@@ -1,5 +1,5 @@
-
-
+# DJANGOBANKAPP
+This is a simple banking app which was built and developed using python programming language. It allows users perform basic banking functionalities such as enabling users to signup, login, creating an account, depositing funds, transfering money and checking account balance.
 
 ## PREREQUSITES
 Basic knowledge in python is helpful but not necessary
