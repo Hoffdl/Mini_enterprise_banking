@@ -19,7 +19,7 @@ This is a simple banking app which was built and developed using python programm
 * Create a Django project: django-admin startproject project_name
 * Create a Django App: python manage.py startapp app_name
 * Create a superuser(admin): python manage.py createsuperuser
-* Create a server: python manage.py run server
+* Create a server: python manage.py runserver
 
 ## WHO THE APP IS INTENDED FOR
 * Anyone with basic knowledge in python looking for building simple app
