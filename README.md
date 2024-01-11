@@ -19,7 +19,13 @@ This is a simple banking app which was built and developed using python programm
 • Create a superuser(admin): python manage.py createsuperuser
 • Create a server: python manage.py run server
 
-## WHO CAN USE THE APP
+## WHO THE APP IS INTENDED FOR
 Anyone with basic knowledge in python looking for building simple app
 If you are interested to build your github portfolio
 Anyone interested in knowing the logic behind online banking application
+
+TOOLS, IDE'S AND LIBRARIES
+Programming language: Python 3.0, django
+IDE: VScode
+Libraries: math, redirect, render, HttpResponse, User, messages, authenticate, login, logout
+Github
