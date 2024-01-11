@@ -29,3 +29,11 @@ Programming language: Python 3.0, django
 IDE: VScode
 Libraries: math, redirect, render, HttpResponse, User, messages, authenticate, login, logout
 Github
+
+WHAT WE ARE TO BUILD
+1. Sign in and Log in
+2. Forgot pin
+3. Deposit Money
+4. Withdraw
+5. Transfer
+6. Check balance
