@@ -24,16 +24,20 @@ Anyone with basic knowledge in python looking for building simple app
 If you are interested to build your github portfolio
 Anyone interested in knowing the logic behind online banking application
 
-TOOLS, IDE'S AND LIBRARIES
+## TOOLS, IDE'S AND LIBRARIES
 Programming language: Python 3.0, django
 IDE: VScode
 Libraries: math, redirect, render, HttpResponse, User, messages, authenticate, login, logout
 Github
 
-WHAT WE ARE TO BUILD
+## WHAT WE ARE TO BUILD
 1. Sign in and Log in
 2. Forgot pin
 3. Deposit Money
 4. Withdraw
 5. Transfer
 6. Check balance
+
+## AUTHORS
+Ikegwuonu Henry Github: https://github.com/Hoffdl
+Esther Fashanu Github: https://github.com/esty2022
